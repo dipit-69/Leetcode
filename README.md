@@ -17,4 +17,4 @@ You are given two strings `word1` and `word2`. Merge the strings by adding lette
 
 ### ✅ Solution (Python):
 
-![Solution Code](images/1768_merge_strings_solution.png)
+![Solution Code]([images/1768_merge_strings_solution.png](https://github.com/dipit-69/Leetcode/blob/main/sol1.jpg))
