@@ -2,7 +2,7 @@
 
 ## 🧠 Problem: 1768. Merge Strings Alternately
 
-**Link:** [LeetCode Problem 1768](https://leetcode.com/problems/merge-strings-alternately/)
+**Link:** [LeetCode Problem 1768]([https://leetcode.com/problems/merge-strings-alternately/](https://github.com/dipit-69/Leetcode/blob/main/que1.jpg))
 
 ### 💬 Question:
 
