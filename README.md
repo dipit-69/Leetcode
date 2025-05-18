@@ -83,12 +83,13 @@ Bill
 Zack
 
 ✅ Solution (SQL):
-sql
-Copy
-Edit
+
 SELECT name
 FROM Customer
 WHERE referee_id IS NULL OR referee_id <> 2;
+
+
+
 🧠 Problem 4: Greatest Common Divisor of Strings
 💬 Question:
 Given two strings str1 and str2, return the largest string x such that x divides both str1 and str2.
@@ -103,9 +104,7 @@ Input: str1 = "ABABAB", str2 = "ABAB" → Output: "AB"
 Input: str1 = "LEET", str2 = "CODE" → Output: ""
 
 ✅ Solution (Python):
-python
-Copy
-Edit
+
 class Solution:
     def gcd(self, a, b):
         while b:
@@ -130,8 +129,4 @@ solution = Solution()
 print(solution.gcdOfStrings("ABCABC", "ABC"))    # Output: "ABC"
 print(solution.gcdOfStrings("ABABAB", "ABAB"))   # Output: "AB"
 print(solution.gcdOfStrings("LEET", "CODE"))     # Output: ""
-Screenshots
-Merge Strings Alternately
-Question:
 
-Solution:
