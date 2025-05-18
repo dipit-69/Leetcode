@@ -55,10 +55,12 @@ Output should be:
 
 ### ✅ Solution (SQL):
 
-```sql
+
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
+
+
 🧠 Problem 3: Customers Not Referred by Customer with ID 2
 💬 Question:
 You have a Customer table with id, name, and referee_id columns. The referee_id refers to the customer who referred them.
